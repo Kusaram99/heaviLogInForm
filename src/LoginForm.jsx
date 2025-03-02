@@ -125,13 +125,14 @@ export default function LoginForm() {
   return (
     <div
       style={{
+        // marginTop:"-200px",
         position: "relative",
         display: "flex",
         flexDirection: "column",
         alignItems: "center",
         justifyContent: "center",
-        height: "100vh",
-        background: "#f4f4f4",
+        // height: "100vh",
+        // background: "#f4f4f4",
       }}
     >
       {/* finger animation */} 
